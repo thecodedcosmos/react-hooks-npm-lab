@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "date-fns": "^2.30.0",
+    "esbuild": "^0.21.2",
     "serve": "^14.2.3"
   }
 }
