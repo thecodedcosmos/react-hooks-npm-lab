@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "test": "echo 'Hello World!'"
-},
+    "test": "echo 'Hello World!'"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
 }
